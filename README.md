@@ -4,7 +4,9 @@ What is JaDogg Mono? - a custom font for personal use.
 
 Combination of multiple fonts renamed to used in editors like IntelliJ.
 
-**Why?** Procrastination 
+**Why?** Procrastination
+
+**Note** even though mono is in name, different fonts are different size 😢
 
 ## Screenshots
 
